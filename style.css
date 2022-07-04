@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    color: #828282;
     margin: 0px;
 }
 span{
@@ -15,6 +16,7 @@ h1{
 .first{
     width: 50%;
     padding-left: 10%;
+    margin: 0px;
 }
 .first img{
     width: 120%;
@@ -36,8 +38,63 @@ padding-right: 15%;
 padding-top: 15%;
 }
 .pic img{
-    width: 155%;
+    width: 150%;
 }
 #black{
     color: black;
+}
+.third{
+    text-align: center;
+    padding: 0% 29%;
+    margin-top: 7%;
+}
+.four{
+    display: flex;
+    margin-top: 7%;
+    width: 70%;
+    margin-right: 30%;
+    color: black;
+}
+.food img{
+    width: 500px;
+}
+.five{
+    padding-top: 1%;
+}
+.zone{
+    margin-left: 13%;
+    box-shadow: 10px 10px 40px orange;
+    padding: 2%;
+    border-radius: 40px;
+}
+.six{
+    display: flex;
+    margin-top: 7%;
+    box-shadow: 10px 10px 30px gray;
+    margin-right: 20%;
+    margin-left: 20%;
+    color: black;
+}
+.number{
+    margin-left: 15%;
+}
+.only{
+    color: black;
+}
+.last{
+    text-align: center;
+    margin-top: 7%;
+    background-color: black;
+    padding-top: 2%;
+    padding-bottom: 5%;
+
+}
+#aa{
+color: orange;
+}
+#bb{
+    color: #5B5B5B;
+}
+#cc{
+    color: white;
 }

@@ -1,0 +1,43 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+.sec {
+    display: flex;
+    margin-top: 7%;
+}
+.first{
+    width: 50%;
+    padding-left: 10%;
+}
+.first img{
+    width: 120%;
+    position: relative; right: 250px;
+}
+p{
+    color: #828282;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, red);
+    padding: 2% 5%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px red;
+}
+.second{
+padding-right: 15%;
+padding-top: 15%;
+}
+.pic img{
+    width: 155%;
+}
+#black{
+    color: black;
+}
